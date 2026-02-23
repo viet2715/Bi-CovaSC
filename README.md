@@ -10,8 +10,7 @@
 ![Main Model](Images/BiCovaSC.jpg)
 
 ### Feature Extractor Block: Mamba Aggregrate Feature Extractor
-![MAFE](Images/MAFE.jpg)
-
+![MAFE]<img src="Images/MAFE.jpg" width="50%">
 ### Attention Block
 ![BAM](Images/BAM_Attention.png)
 
