@@ -1,12 +1,12 @@
 # Bi-CovaSC: A Few-Shot Learning Model with Multi-Scale Feature and Covariance Bi-Metric Learning for Bearing Fault Diagnosis
 
- **Paper:** [https://ieeexplore.ieee.org/abstract/document/11142101]
+**Paper:** [https://ieeexplore.ieee.org/abstract/document/11142101]
 
  ---
 
 ## Architecture of the proposed model
 
-### Main Architecture
+### Main Architecture: BiCovaSC
 ![Main Model](Images/BiCovaSC.jpg)
 
 ### Feature Extractor Block: Mamba Aggregrate Feature Extractor
@@ -33,7 +33,7 @@ This work evaluates performance on two benchmark bearing fault datasets:
   https://engineering.case.edu/bearingdatacenter  
 
 - **PU** — Paderborn University Bearing Dataset  
-  https://mb.uni-paderborn.de/kat/forschung/kat-datacenter/bearing-datacenter/data-sets-and-download  
+  [https://mb.uni-paderborn.de/kat/forschung/kat-datacenter/bearing-datacenter/data-sets-and-download](https://mb.uni-paderborn.de/kat/forschung/bearing-datacenter/data-sets-and-download)  
 
 ---
 
