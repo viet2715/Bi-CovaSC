@@ -7,12 +7,12 @@
 🧠 Architecture of the proposed model
 
 ### Main Architecture
-![Main Model](Images/BiCovaSC.png)
+![Main Model](Images/BiCovaSC.jpg)
 
 ### Feature Extractor Block: Mamba Aggregrate Feature Extractor
-![MAFE](Images/MAFE.png)
+![MAFE](Images/MAFE.jpg)
 
 ### Attention Block
-![BAM](Images/BAM_Attention.png)
+![BAM](Images/BAM_Attention.jpg)
 
 ---
