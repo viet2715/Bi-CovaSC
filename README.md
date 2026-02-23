@@ -1,6 +1,6 @@
 # Bi-CovaSC: A Few-Shot Learning Model with Multi-Scale Feature and Covariance Bi-Metric Learning for Bearing Fault Diagnosis
 
- **Paper:** [https://doi.org/10.1016/j.neucom.2025.131518](https://ieeexplore.ieee.org/abstract/document/11142101)
+ **Paper:** [https://ieeexplore.ieee.org/abstract/document/11142101]
 
  ---
 
@@ -11,12 +11,10 @@
 
 ### Feature Extractor Block: Mamba Aggregrate Feature Extractor
 <img src="Images/MAFE.jpg" width="40%">
+
 ### Attention Block
 <img src="Images/BAM_Attention.png" width="100%">
----
 
-
----
 
 ## Requirements
 
