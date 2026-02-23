@@ -13,7 +13,7 @@ from function.function import ContrastiveLoss, seed_func, cal_accuracy_fewshot_5
 from CWRU.CWRU_dataset import CWRU
 from dataloader.dataloader import FewshotDataset
 from torch.utils.data import DataLoader
-from net import BiCovaSC
+from net.model import BiCovaSC
 from sklearn.metrics import confusion_matrix
 import argparse
 import librosa

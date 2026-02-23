@@ -13,7 +13,7 @@ from CWRU.CWRU_dataset import CWRU
 import os
 from dataloader.dataloader import FewshotDataset
 from torch.utils.data import DataLoader
-from net import BiCovaSC
+from net.model import BiCovaSC
 
 
 from sklearn.metrics import confusion_matrix
