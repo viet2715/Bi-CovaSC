@@ -12,7 +12,7 @@
 ### Feature Extractor Block: Mamba Aggregrate Feature Extractor
 <img src="Images/MAFE.jpg" width="40%">
 
-### Attention Block
+### Attention Block: Bottleneck Attention Module
 <img src="Images/BAM_Attention.png" width="100%">
 
 
