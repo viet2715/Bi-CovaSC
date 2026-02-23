@@ -4,7 +4,7 @@
 
  ---
 
-🧠 Architecture of the proposed model
+## Architecture of the proposed model
 
 ### Main Architecture
 ![Main Model](Images/BiCovaSC.jpg)
@@ -18,7 +18,7 @@
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 - Python ≥ 3.8  
 - Linux OS  
@@ -27,7 +27,7 @@
 
 ---
 
-## 📊 Datasets
+## Datasets
 
 This work evaluates performance on two benchmark bearing fault datasets:
 
