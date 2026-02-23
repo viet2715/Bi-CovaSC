@@ -12,8 +12,7 @@
 ### Feature Extractor Block: Mamba Aggregrate Feature Extractor
 <img src="Images/MAFE.jpg" width="40%">
 ### Attention Block
-![BAM](Images/BAM_Attention.png)
-
+<img src="Images/BAM_Attention.png" width="100%">
 ---
 
 
