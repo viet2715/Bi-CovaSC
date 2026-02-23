@@ -13,6 +13,6 @@
 ![MAFE](Images/MAFE.jpg)
 
 ### Attention Block
-![BAM](Images/BAM_Attention.jpg)
+![BAM](Images/BAM_Attention.png)
 
 ---
