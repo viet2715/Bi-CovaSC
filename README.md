@@ -47,7 +47,7 @@ If you feel this code is useful, please give us 1 ⭐ and cite our paper.
 ```bash
 @inproceedings{nguyen2025bi,
   title={Bi-CovaSC: A Few-Shot Learning Model with Multi-Scale Feature and Covariance Bi-Metric Learning for Bearing Fault Diagnosis},
-  author={Nguyen, Duy-Thai and Pham, Van-Truong and Tran, Thi-Thao and others},
+  author={Nguyen, Van-QuocViet and Nguyen, Duy-Thai and Pham, Van-Truong and Tran, Thi-Thao and others},
   booktitle={2025 10th International Conference on Applying New Technology in Green Buildings (ATiGB)},
   pages={218--223},
   year={2025},
